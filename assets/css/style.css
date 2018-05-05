@@ -1,0 +1,15 @@
+body {
+    background-image: url("http://3.bp.blogspot.com/-trpioOLP94M/VQXuSQSwLjI/AAAAAAAABlM/6EOK0WmCsfU/s1600/maxresdefault.jpg");
+}
+
+.container {
+    background-color: wheat;
+    text-align: center;
+    min-height: 900px;
+}
+
+.choice {
+    width:50%;
+    border-width: 2px;
+    margin: 5px;
+}
